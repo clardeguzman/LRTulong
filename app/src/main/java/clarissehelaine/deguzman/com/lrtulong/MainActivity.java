@@ -41,109 +41,123 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
         {
             state=new String[]{"EDSA", "Libertad", "Gil Puyat", "Vito Cruz", "Quirino", "Pedro Gil",
                     "UN Ave", "Central", "Carriedo", "Doroteo Jose", "Bambang", "Tayuman", "Blumentritt",
-                    "Abad Santos", "R. Papa", "5th Ave", "Monumento"};
+                    "Abad Santos", "R. Papa", "5th Ave", "Monumento", "Balintawak", "Roosevelt"};
         }
         if(position==1)
         {
             state=new String[]{"Baclaran", "Libertad", "Gil Puyat", "Vito Cruz", "Quirino", "Pedro Gil",
                     "UN Ave", "Central", "Carriedo", "Doroteo Jose", "Bambang", "Tayuman", "Blumentritt",
-                    "Abad Santos", "R. Papa", "5th Ave", "Monumento"};
+                    "Abad Santos", "R. Papa", "5th Ave", "Monumento", "Balintawak", "Roosevelt"};
         }
         if(position==2)
         {
             state=new String[]{"Baclaran", "EDSA", "Gil Puyat", "Vito Cruz", "Quirino", "Pedro Gil",
                     "UN Ave", "Central", "Carriedo", "Doroteo Jose", "Bambang", "Tayuman", "Blumentritt",
-                    "Abad Santos", "R. Papa", "5th Ave", "Monumento"};
+                    "Abad Santos", "R. Papa", "5th Ave", "Monumento", "Balintawak", "Roosevelt"};
         }
         if(position==3)
         {
             state=new String[]{"Baclaran", "EDSA", "Libertad", "Vito Cruz", "Quirino", "Pedro Gil",
                     "UN Ave", "Central", "Carriedo", "Doroteo Jose", "Bambang", "Tayuman", "Blumentritt",
-                    "Abad Santos", "R. Papa", "5th Ave", "Monumento"};
+                    "Abad Santos", "R. Papa", "5th Ave", "Monumento", "Balintawak", "Roosevelt"};
         }
         if(position==4)
         {
             state=new String[]{"Baclaran", "EDSA", "Libertad", "Gil Puyat", "Quirino", "Pedro Gil",
                     "UN Ave", "Central", "Carriedo", "Doroteo Jose", "Bambang", "Tayuman", "Blumentritt",
-                    "Abad Santos", "R. Papa", "5th Ave", "Monumento"};
+                    "Abad Santos", "R. Papa", "5th Ave", "Monumento", "Balintawak", "Roosevelt"};
         }
         if(position==5)
         {
             state=new String[]{"Baclaran", "EDSA", "Libertad", "Gil Puyat", "Vito Cruz", "Pedro Gil",
                     "UN Ave", "Central", "Carriedo", "Doroteo Jose", "Bambang", "Tayuman", "Blumentritt",
-                    "Abad Santos", "R. Papa", "5th Ave", "Monumento"};
+                    "Abad Santos", "R. Papa", "5th Ave", "Monumento", "Balintawak", "Roosevelt"};
         }
         if(position==6)
         {
             state=new String[]{"Baclaran", "EDSA", "Libertad", "Gil Puyat", "Vito Cruz", "Quirino",
                     "UN Ave", "Central", "Carriedo", "Doroteo Jose", "Bambang", "Tayuman", "Blumentritt",
-                    "Abad Santos", "R. Papa", "5th Ave", "Monumento"};
+                    "Abad Santos", "R. Papa", "5th Ave", "Monumento", "Balintawak", "Roosevelt"};
         }
         if(position==7)
         {
             state=new String[]{"Baclaran", "EDSA", "Libertad", "Gil Puyat", "Vito Cruz", "Quirino",
                     "Pedro Gil", "Central", "Carriedo", "Doroteo Jose", "Bambang", "Tayuman", "Blumentritt",
-                    "Abad Santos", "R. Papa", "5th Ave", "Monumento"};
+                    "Abad Santos", "R. Papa", "5th Ave", "Monumento", "Balintawak", "Roosevelt"};
         }
         if(position==8)
         {
             state=new String[]{"Baclaran", "EDSA", "Libertad", "Gil Puyat", "Vito Cruz", "Quirino",
                     "Pedro Gil", "UN Ave", "Carriedo", "Doroteo Jose", "Bambang", "Tayuman", "Blumentritt",
-                    "Abad Santos", "R. Papa", "5th Ave", "Monumento"};
+                    "Abad Santos", "R. Papa", "5th Ave", "Monumento", "Balintawak", "Roosevelt"};
         }
         if(position==9)
         {
             state=new String[]{"Baclaran", "EDSA", "Libertad", "Gil Puyat", "Vito Cruz", "Quirino",
                     "Pedro Gil", "UN Ave", "Central", "Doroteo Jose", "Bambang", "Tayuman", "Blumentritt",
-                    "Abad Santos", "R. Papa", "5th Ave", "Monumento"};
+                    "Abad Santos", "R. Papa", "5th Ave", "Monumento", "Balintawak", "Roosevelt"};
         }
         if(position==10)
         {
             state=new String[]{"Baclaran", "EDSA", "Libertad", "Gil Puyat", "Vito Cruz", "Quirino",
                     "Pedro Gil", "UN Ave", "Central", "Carriedo", "Bambang", "Tayuman", "Blumentritt",
-                    "Abad Santos", "R. Papa", "5th Ave", "Monumento"};
+                    "Abad Santos", "R. Papa", "5th Ave", "Monumento", "Balintawak", "Roosevelt"};
         }
         if(position==11)
         {
             state=new String[]{"Baclaran", "EDSA", "Libertad", "Gil Puyat", "Vito Cruz", "Quirino",
                     "Pedro Gil", "UN Ave", "Central", "Carriedo", "Doroteo Jose", "Tayuman", "Blumentritt",
-                    "Abad Santos", "R. Papa", "5th Ave", "Monumento"};
+                    "Abad Santos", "R. Papa", "5th Ave", "Monumento", "Balintawak", "Roosevelt"};
         }
         if(position==12)
         {
             state=new String[]{"Baclaran", "EDSA", "Libertad", "Gil Puyat", "Vito Cruz", "Quirino",
                     "Pedro Gil", "UN Ave", "Central", "Carriedo", "Doroteo Jose", "Bambang", "Blumentritt",
-                    "Abad Santos", "R. Papa", "5th Ave", "Monumento"};
+                    "Abad Santos", "R. Papa", "5th Ave", "Monumento", "Balintawak", "Roosevelt"};
         }
         if(position==13)
         {
             state=new String[]{"Baclaran", "EDSA", "Libertad", "Gil Puyat", "Vito Cruz", "Quirino",
                     "Pedro Gil", "UN Ave", "Central", "Carriedo", "Doroteo Jose", "Bambang", "Tayuman",
-                    "Abad Santos", "R. Papa", "5th Ave", "Monumento"};
+                    "Abad Santos", "R. Papa", "5th Ave", "Monumento", "Balintawak", "Roosevelt"};
         }
         if(position==14)
         {
             state=new String[]{"Baclaran", "EDSA", "Libertad", "Gil Puyat", "Vito Cruz", "Quirino",
                     "Pedro Gil", "UN Ave", "Central", "Carriedo", "Doroteo Jose", "Bambang", "Tayuman",
-                    "Blumentritt", "R. Papa", "5th Ave", "Monumento"};
+                    "Blumentritt", "R. Papa", "5th Ave", "Monumento", "Balintawak", "Roosevelt"};
         }
         if(position==15)
         {
             state=new String[]{"Baclaran", "EDSA", "Libertad", "Gil Puyat", "Vito Cruz", "Quirino",
                     "Pedro Gil", "UN Ave", "Central", "Carriedo", "Doroteo Jose", "Bambang", "Tayuman",
-                    "Blumentritt", "Abad Santos", "5th Ave", "Monumento"};
+                    "Blumentritt", "Abad Santos", "5th Ave", "Monumento", "Balintawak", "Roosevelt"};
         }
         if(position==16)
         {
             state=new String[]{"Baclaran", "EDSA", "Libertad", "Gil Puyat", "Vito Cruz", "Quirino",
                     "Pedro Gil", "UN Ave", "Central", "Carriedo", "Doroteo Jose", "Bambang", "Tayuman",
-                    "Blumentritt", "Abad Santos", "R Papa", "Monumento"};
+                    "Blumentritt", "Abad Santos", "R Papa", "Monumento", "Balintawak", "Roosevelt"};
         }
         if(position==17)
         {
             state=new String[]{"Baclaran", "EDSA", "Libertad", "Gil Puyat", "Vito Cruz", "Quirino",
                     "Pedro Gil", "UN Ave", "Central", "Carriedo", "Doroteo Jose", "Bambang", "Tayuman",
-                    "Blumentritt", "Abad Santos", "R Papa", "5th Ave"};
+                    "Blumentritt", "Abad Santos", "R Papa", "5th Ave", "Balintawak", "Roosevelt"};
+        }
+
+        if(position==18)
+        {
+            state=new String[]{"Baclaran", "EDSA", "Libertad", "Gil Puyat", "Vito Cruz", "Quirino",
+                    "Pedro Gil", "UN Ave", "Central", "Carriedo", "Doroteo Jose", "Bambang", "Tayuman",
+                    "Blumentritt", "Abad Santos", "R Papa", "5th Ave", "Monumento", "Roosevelt"};
+        }
+
+        if(position==19)
+        {
+            state=new String[]{"Baclaran", "EDSA", "Libertad", "Gil Puyat", "Vito Cruz", "Quirino",
+                    "Pedro Gil", "UN Ave", "Central", "Carriedo", "Doroteo Jose", "Bambang", "Tayuman",
+                    "Blumentritt", "Abad Santos", "R Papa", "5th Ave", "Monumento", "Balintawak"};
         }
 
 
@@ -172,9 +186,104 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
                         switch (state) {
                             case "EDSA":
                             case "Libertad":
+                            case "Gil Puyat":
+                            case "Vito Cruz":
+                            case "Quirino":
+                                t1.setText("P15");
+                                t2.setText("Single Journey Ticket Price");
+                                break;
+
+                            case "Pedro Gil":
+                            case "UN Ave":
+                            case "Central":
+                            case "Carriedo":
+                            case "Doroteo Jose":
+                            case "Bambang":
                                 t1.setText("P20");
                                 t2.setText("Single Journey Ticket Price");
+                                break;
+
+                            case "Tayuman":
+                            case "Blumentritt":
+                            case "Abad Santos":
+                            case "R Papa":
+                            case "5th Avenue":
+                            case "Monumento":
+                            case "Balintawak":
+                            case "Roosevelt":
+                                t1.setText("P30");
+                                t2.setText("Single Journey Ticket Price");
+                                break;
                         }
+
+                    case "EDSA":
+                        switch (state) {
+                            case "Baclaran":
+                            case "Libertad":
+                            case "Gil Puyat":
+                            case "Vito Cruz":
+                            case "Quirino":
+                            case "Pedro Gil":
+                                t1.setText("P15");
+                                t2.setText("Single Journey Ticket Price");
+                                break;
+
+                            case "UN Ave":
+                            case "Central":
+                            case "Carriedo":
+                            case "Doroteo Jose":
+                            case "Bambang":
+                            case "Tayuman":
+                                t1.setText("P20");
+                                t2.setText("Single Journey Ticket Price");
+                                break;
+
+                            case "Blumentritt":
+                            case "Abad Santos":
+                            case "R Papa":
+                            case "5th Avenue":
+                            case "Monumento":
+                            case "Balintawak":
+                            case "Roosevelt":
+                                t1.setText("P30");
+                                t2.setText("Single Journey Ticket Price");
+                                break;
+                        }
+
+                    case "Libertad":
+                        switch (state) {
+                            case "Baclaran":
+                            case "EDSA":
+                            case "Gil Puyat":
+                            case "Vito Cruz":
+                            case "Quirino":
+                            case "Pedro Gil":
+                            case "UN Ave":
+                                t1.setText("P15");
+                                t2.setText("Single Journey Ticket Price");
+                                break;
+
+                            case "Central":
+                            case "Carriedo":
+                            case "Doroteo Jose":
+                            case "Bambang":
+                            case "Tayuman":
+                            case "Blumentritt":
+                                t1.setText("P20");
+                                t2.setText("Single Journey Ticket Price");
+                                break;
+
+                            case "Abad Santos":
+                            case "R Papa":
+                            case "5th Avenue":
+                            case "Monumento":
+                            case "Balintawak":
+                            case "Roosevelt":
+                                t1.setText("P30");
+                                t2.setText("Single Journey Ticket Price");
+                                break;
+                        }
+
                 }
                 break;
 
