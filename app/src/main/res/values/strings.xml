@@ -1,7 +1,6 @@
 <resources>
     <string name="app_name">LRTulong</string>
-    
-    <string-array name="stations">
+    <string-array name="country">
         <item>Baclaran</item>
         <item>EDSA</item>
         <item>Libertad</item>
@@ -20,10 +19,5 @@
         <item>R. Papa</item>
         <item>5th Ave</item>
         <item>Monumento</item>
-    </string-array>
-
-    <string-array name="ticket">
-        <item>Single Journey Ticket Price</item>
-        <item>Stored Value Ticket Price</item>
     </string-array>
 </resources>

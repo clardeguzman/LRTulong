@@ -17,21 +17,25 @@
         app:cardElevation="10dp">
 
         <TextView
-            android:id="@+id/textView"
+            android:id="@+id/textVieww"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="30dp"
             android:layout_marginTop="10dp"
             android:text="Choose starting station:"
+
             android:textColor="#000000" />
 
         <Spinner
-            android:id="@+id/firstSpinner"
+            android:id="@+id/spinner"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="100dp"
             android:layout_marginTop="40dp"
-            android:scrollbarSize="20dp">
+            android:scrollbarSize="20dp"
+            android:entries="@array/country"
+            android:spinnerMode="dialog">
+
 
         </Spinner>
 
@@ -57,7 +61,7 @@
             android:textColor="#000000" />
 
         <Spinner
-            android:id="@+id/SpinnerTwo"
+            android:id="@+id/spinner2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="100dp"
@@ -65,18 +69,8 @@
             android:scrollbarSize="20dp">
 
         </Spinner>
-    </android.support.v7.widget.CardView>
 
-    <Button
-        android:id="@+id/button"
-        android:layout_width="150dp"
-        android:layout_height="wrap_content"
-        android:layout_marginLeft="100dp"
-        android:layout_marginTop="20dp"
-        android:background="#3F51B5"
-        android:shadowColor="@android:color/black"
-        android:text="CHECK PRICE"
-        android:textColor="#ffffff" />
+    </android.support.v7.widget.CardView>
 
     <android.support.v7.widget.CardView
         android:layout_width="300dp"
@@ -85,27 +79,57 @@
         android:layout_marginTop="20dp"
         app:cardBackgroundColor="@android:color/white"
         app:cardCornerRadius="10dp"
-        app:cardElevation="10dp" >
-
-        <Spinner
-            android:id="@+id/SpinnerThree"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="5dp"
-            android:scrollbarSize="20dp">
-
-        </Spinner>
+        app:cardElevation="10dp">
 
         <TextView
-            android:id="@+id/textView6"
+            android:id="@+id/textView"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="90dp"
             android:layout_marginTop="50dp"
-            android:text="P30.00"
             android:textColor="@android:color/black"
             android:textSize="40dp" />
 
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:text="TextView" />
+
 
     </android.support.v7.widget.CardView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/button"
+            android:layout_width="40dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="40dp"
+            android:layout_marginTop="20dp"
+            android:layout_weight="1"
+            android:background="#3F51B5"
+            android:shadowColor="@android:color/black"
+            android:text="CHECK SJT PRICE"
+            android:textColor="#ffffff"
+            android:textSize="24px" />
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="40dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="50dp"
+            android:layout_marginTop="20dp"
+            android:layout_weight="1"
+            android:background="#3F51B5"
+            android:text="CHECK SVT PRICE"
+            android:textColor="@android:color/white"
+            android:textSize="24px" />
+    </LinearLayout>
 </LinearLayout>
